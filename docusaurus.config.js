@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'MySQL支持',
   tagline: '数据治理',
-  url: 'http://mysqlsupport.cn',
+  url: 'http://wuwbx.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'wubx', // Usually your GitHub org/user name.
-  projectName: 'wubx_blog', // Usually your repo name.
+  projectName: 'wubx.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'MySQL支持',
@@ -33,7 +33,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: 'https://github.com/wubx/wubx_blog',
+          href: 'https://github.com/wubx/wubx.github.io',
           label: 'GitHub',
           position: 'right',
         },
@@ -52,23 +52,6 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
@@ -77,7 +60,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/wubx/wubx.github.io',
             },
           ],
         },
@@ -104,7 +87,7 @@ module.exports = {
           path: "./blog",
           routeBasePath: "/",
           // Please change this to your repo.
-          editUrl: 'https://github.com/wubx/wubx_blog',
+          editUrl: 'https://github.com/wubx/wubx.github.io',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
