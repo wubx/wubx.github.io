@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwubx_blog=self.webpackChunkwubx_blog||[]).push([[637],{3150:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"replication","name":"replication","count":2,"permalink":"/tags/replication"}')}}]);

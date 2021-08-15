@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://wubx.github.io/</id>
+    <title>MySQL支持 Blog</title>
+    <updated>2021-08-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://wubx.github.io/"/>
+    <subtitle>MySQL支持 Blog</subtitle>
+    <icon>http://wubx.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[公开课：《理解 Rust 的所有权》]]></title>
+        <id>《理解 Rust 的所有权》</id>
+        <link href="http://wubx.github.io/《理解 Rust 的所有权》"/>
+        <updated>2021-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[上周公开课《理解 Rust 的所有权》 回放地址： https://www.bilibili.com/video/BV1264y1i7U9/]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust, Datafuse and the Cloud Warehouse（1）云时代数仓架构设计]]></title>
+        <id>2021-08-08-datafuse-cloud-warehouse-arch</id>
+        <link href="http://wubx.github.io/2021-08-08-datafuse-cloud-warehouse-arch"/>
+        <updated>2021-08-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[传统数仓架构不适合云？]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL半同步性能指标]]></title>
+        <id>mysql-semin-sync-replication</id>
+        <link href="http://wubx.github.io/mysql-semin-sync-replication"/>
+        <updated>2020-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL 半同步性能标获取方法：]]></summary>
+    </entry>
+</feed>

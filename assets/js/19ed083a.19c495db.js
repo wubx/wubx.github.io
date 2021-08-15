@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwubx_blog=self.webpackChunkwubx_blog||[]).push([[104],{3763:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"firebolt","name":"firebolt","count":1,"permalink":"/tags/firebolt"}')}}]);

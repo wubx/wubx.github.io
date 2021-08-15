@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwubx_blog=self.webpackChunkwubx_blog||[]).push([[718],{5946:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"datafuse","name":"datafuse","count":1,"permalink":"/tags/datafuse"}')}}]);
