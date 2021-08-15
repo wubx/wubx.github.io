@@ -5,13 +5,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'MySQL支持',
   tagline: '数据治理',
-  url: 'http://wuwbx.github.io',
+  url: 'http://wubx.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'wubx', // Usually your GitHub org/user name.
   projectName: 'wubx.github.io', // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'MySQL支持',
